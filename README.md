@@ -34,6 +34,7 @@ msfadmin : msfadmin
 
 📸 Evidência de Sucesso 
 imagens/ftp.png
+<img width="742" height="462" alt="image" src="https://github.com/user-attachments/assets/689710c9-2ec8-4396-947f-2ed8f93bd92f" />
 
 2. 🗄️ Cenário SMB (Password Spraying/Acesso)
 
