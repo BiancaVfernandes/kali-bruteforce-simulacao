@@ -26,6 +26,7 @@ Ataque de Brute Force usando o Hydra contra o serviço FTP (Porta 21), simulando
 
 hydra -l msfadmin -P /home/bianca/passwords.txt -t 1 ftp://192.168.56.101
 
+
 🔑 Credencial Encontrada
 
 O ataque foi bem-sucedido, quebrando a senha em segundos:
@@ -42,6 +43,7 @@ O ataque de Password Spraying usando o módulo Hydra SMB falhou devido a incompa
 Usamos o smbclient para provar que a mesma credencial (que seria o alvo do password spraying) funciona no serviço SMB (porta 445):
 
 smbclient -L 192.168.56.101 -U msfadmin%msfadmin
+
 
 🔓 Resultado Confirmado
 
